@@ -1,5 +1,5 @@
 # Set working directory
-setwd('C://Users/mrit/Dropbox/Antarctica/Project/Image_classification/')
+setwd('./region-props/')
 set.seed(13)
 
 # Load libraries
